@@ -1,7 +1,7 @@
 <h1 align="center">Sapucaí Socket</h1>
 <h3 align="center">Uma empresa em constante desenvolvimento.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sapucaisocket" alt="sapucaisocket" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sapucaisocket" alt="sapucaisocket" /></a> </p>
 
 - 🔭 Estou atualmente trabalhando [Projeto Web](https://github.com/sapucaisocket/Projeto-Web-PP-III)
 
